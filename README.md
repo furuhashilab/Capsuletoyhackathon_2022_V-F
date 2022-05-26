@@ -32,6 +32,9 @@ https://github.com/furuhashilab/README/issues/33#issuecomment-1135300234
 
 
 ---
+### ・プロジェクト管理
+https://github.com/furuhashilab/Capsuletoyhackathon_2022_V-F/projects/1
+
 ### ・メディウム
 
 
