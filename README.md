@@ -7,7 +7,7 @@ https://github.com/furuhashilab/README/issues/33#issuecomment-1135300234
 #### <チーム>
 ・葉賀なつみ
 
-・植村直哉
+・植村尚哉
 
 #### <ルール>
 
