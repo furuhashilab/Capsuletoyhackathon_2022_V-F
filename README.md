@@ -4,7 +4,7 @@ Capsuletoyhackathon_V-F
 ・5/31 11:00〜12:30 発表、
 https://github.com/furuhashilab/README/issues/33#issuecomment-1135300234
 
-#### <チーム>
+#### <V&Fチーム>
 ・葉賀なつみ
 
 ・植村尚哉
