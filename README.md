@@ -36,7 +36,7 @@ https://github.com/furuhashilab/README/issues/33#issuecomment-1135300234
 https://github.com/furuhashilab/Capsuletoyhackathon_2022_V-F/projects/1
 
 ### ・メディウム
-
+https://medium.com/furuhashilab/%E3%82%AC%E3%83%81%E3%83%A3%E3%82%AC%E3%83%81%E3%83%A3%E3%83%8F%E3%83%83%E3%82%AB%E3%82%BD%E3%83%B3v-f-fedd8fff137b
 
 ### ・発表スライド
 https://docs.google.com/presentation/d/1Zxh_AKVQj6DQ6coQ2xRa0nH8qijkvMslXmgrBWT347I/edit#slide=id.p
